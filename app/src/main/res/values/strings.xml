@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GymglishTestApp</string>
+
+    <string name="gymglish_name">GYMGLISH\nAPP</string>
+    <string name="action_menu1">Gymglish</string>
+    <string name="action_menu2">Frantastique</string>
+    <string name="action_menu3">Vatefaireconjuguer</string>
+</resources>
